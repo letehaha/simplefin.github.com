@@ -111,6 +111,11 @@ To add to this list, <a href="https://github.com/simplefin/simplefin.github.com/
   <div class="item-desc">Bank, brokerage, and crypto sync for Europe and New Zealand via the SimpleFIN protocol.</div>
 </a>
 
+<a class="item" href="https://moneymatter.app" target="_blank">
+  <div class="item-title"><img src="/img/applogos/moneymatter.png" title="MoneyMatter logo"> MoneyMatter</div>
+  <div class="item-desc">Open-source budget tracker you can self-host or use in the cloud</div>
+</a>
+
 </div>
 
 <script>
